@@ -17,5 +17,11 @@ namespace Calculator
         }
 
         public decimal GetHourlySalary(int annualSalary) => annualSalary / HoursInYear;
+
+
+        public void Te ()
+        {
+
+        }
     }
 }
